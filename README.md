@@ -30,7 +30,6 @@ This template uses a warm, professional color scheme perfect for education profe
 onepage-website/
 ├── index.html          # Main HTML file
 ├── style.css           # All styling
-├── script.js           # Smooth scrolling & interactions
 └── README.md          # This file
 ```
 
